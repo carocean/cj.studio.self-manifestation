@@ -1,6 +1,6 @@
 # 自显论 · On Self-Manifestation
 
-**v0.8.1**
+**v0.8.2**
 
 赵向彬（Xiangbin Zhao）著 · by Carocean Jofers (Xiangbin Zhao)
 

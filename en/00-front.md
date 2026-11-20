@@ -1,4 +1,4 @@
-On Self-Manifestation v0.8.1  
+On Self-Manifestation v0.8.2  
 Carocean Jofers Written  
 Initials: CJ  
 Chinese name:  

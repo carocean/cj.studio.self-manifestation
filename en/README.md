@@ -1,4 +1,4 @@
-# *On Self-Manifestation* v0.8.1 · English Edition
+# *On Self-Manifestation* v0.8.2 · English Edition
 
 Carocean Jofers (Xiangbin Zhao)
 
@@ -52,6 +52,7 @@ Reexamine the world and its various phenomena from the perspective of Self-Manif
 - [Outer Chapter 18 v1.0 — Genesis](02-outer/18.md)
 - [Outer Chapter 19 v1.0 — Entering a World](02-outer/19.md)
 - [Outer Chapter 20 v1.1 — Exiting the World](02-outer/20.md)
+- [Outer Chapter 21 v1.0 — Immortality](02-outer/21.md)
 
 ## Form Chapters
 

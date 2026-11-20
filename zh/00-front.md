@@ -1,4 +1,4 @@
-《自显论》 v0.8.1  
+《自显论》 v0.8.2  
 赵向彬(Xiangbin Zhao) 著  
 English name:  
 Carocean Jofers  
